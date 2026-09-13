@@ -1,0 +1,44 @@
+[
+  {
+    "id": "anger",
+    "keywords": ["angry", "furious", "unacceptable", "how dare", "incompetent", "fed up"],
+    "reframe": "Heat is information. The other person still has to live with the sentence after you cool down.",
+    "line": "I am frustrated and I want this fixed. Here is what I need, and by when."
+  },
+  {
+    "id": "apology",
+    "keywords": ["sorry", "apologize", "my fault", "I dropped", "missed the"],
+    "reframe": "A clean apology names the miss and the repair. Extra self-blame asks them to comfort you.",
+    "line": "I missed this. Here is what I am doing to correct it, and when you will have it."
+  },
+  {
+    "id": "ask",
+    "keywords": ["raise", "promotion", "could you", "would you mind", "need you to", "asking"],
+    "reframe": "A clear ask is kinder than a hint. They cannot say yes to a fog.",
+    "line": "I am asking for this, for this reason, by this date. What would you need in order to say yes?"
+  },
+  {
+    "id": "decline",
+    "keywords": ["can't", "cannot", "won't be able", "have to say no", "overcommitted", "decline"],
+    "reframe": "A short no with a boundary is easier to trust than a maybe that never comes.",
+    "line": "I cannot take this on. I can do X, or I can help you find someone who can."
+  },
+  {
+    "id": "unclear",
+    "keywords": ["confused", "not sure", "unclear", "what did you mean", "loop me in"],
+    "reframe": "Confusion is a request for a fact, not a verdict on their competence.",
+    "line": "I want to get this right. Which of these did you mean, and what does done look like?"
+  },
+  {
+    "id": "conflict",
+    "keywords": ["disagree", "push back", "that's not true", "you always", "never"],
+    "reframe": "Name the disagreement without putting them on trial. You can keep the relationship and the standard.",
+    "line": "I see it differently. Here is the part I cannot sign up for, and the part I can."
+  },
+  {
+    "id": "fallback",
+    "keywords": [],
+    "reframe": "You already know this matters. One clear sentence beats a perfect speech that never leaves the draft.",
+    "line": "I want to say this plainly: here is the situation, here is what I need, and here is when."
+  }
+]
