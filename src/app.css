@@ -1,0 +1,33 @@
+:root {
+  color: #1c1917;
+  background: #f5f0e8;
+  font-family: Georgia, "Times New Roman", serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+#root { max-width: 36rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+h1 { font-size: 1.75rem; font-weight: 600; margin: 0 0 0.5rem; }
+.lede { color: #57534e; margin: 0 0 1.5rem; line-height: 1.45; }
+label { display: block; font-size: 0.95rem; margin: 0.85rem 0 0.35rem; }
+input, textarea {
+  width: 100%;
+  padding: 0.6rem 0.7rem;
+  border: 1px solid #d6d3d1;
+  background: #fff;
+  font: inherit;
+}
+textarea { min-height: 7rem; }
+.actions { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 1.25rem; }
+button, .linkish {
+  font: inherit;
+  border: 1px solid #1c1917;
+  background: #1c1917;
+  color: #f5f0e8;
+  padding: 0.45rem 0.85rem;
+  cursor: pointer;
+}
+button.secondary { background: transparent; color: #1c1917; }
+.card { background: #fff; border: 1px solid #e7e5e4; padding: 1rem 1.1rem; margin: 0.75rem 0; }
+.muted { color: #78716c; font-size: 0.9rem; }
+.last { margin-top: 2rem; }
+.line { font-size: 1.1rem; }
